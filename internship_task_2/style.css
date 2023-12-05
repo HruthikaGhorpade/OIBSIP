@@ -1,0 +1,72 @@
+/* Basic styles for the tribute page */
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  .main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  .about {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .person-name {
+    color: #ff5733;
+    font-style: bolder;
+    text-align: center;
+  }
+
+  .person-name p{
+    color: #ff5733;
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .content {
+    margin-top: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    
+  }
+  
+  img {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+
+  }
+  h5 {
+    border-top: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.767);
+    
+  }
+  
